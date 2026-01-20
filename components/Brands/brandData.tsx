@@ -53,9 +53,8 @@ const brandData: Brand[] = [
     id: 0.15,
     name: "Meta",
     href: "https://www.facebook.com/business",
-    image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg",
-    imageLight:
-      "https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg",
+    image:  "/images/brand/meta.png",
+    imageLight: "/images/brand/meta.png",
   },
   {
     id: 0.25,
@@ -85,9 +84,8 @@ const brandData: Brand[] = [
     id: 0.55,
     name: "Google Ads",
     href: "https://ads.google.com",
-    image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Ads_logo.svg",
-    imageLight:
-      "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Ads_logo.svg",
+    image:  "/images/brand/adwords.png",
+    imageLight: "/images/brand/adwords.png",
   },
   {
     id: 0.65,

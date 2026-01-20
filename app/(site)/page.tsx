@@ -16,6 +16,9 @@ import Testimonial from "@/components/Testimonial";
 export const metadata: Metadata = {
   title: "AYDEX Technologies | Engineering Digital Excellence",
   description: "Tech & Digital Marketing Solutions by AYDEX Technologies",
+    icons: {
+    icon: "/images/logo/aydex.png",
+  },
   
 };
 
