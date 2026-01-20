@@ -3,21 +3,21 @@ import { Blog } from "@/types/blog";
 const BlogData: Blog[] = [
   {
     _id: 1,
-    mainImage: "/images/blog/blog-01.png",
+    mainImage: "/images/blog/automation-s-time.png",
     title: "How Automation Can Save Time for Growing Businesses",
     metadata:
       "Discover how business automation tools like WhatsApp bots and workflow automation can help startups save time and scale efficiently.",
   },
   {
     _id: 2,
-    mainImage: "/images/blog/blog-02.png",
+    mainImage: "/images/blog/startup-need-dp.webp",
     title: "Why Every Startup Needs a Strong Digital Presence",
     metadata:
       "Learn why websites, branding, and digital marketing are essential for startups to build trust and attract customers online.",
   },
   {
     _id: 3,
-    mainImage: "/images/blog/blog-03.png",
+    mainImage: "/images/blog/top-trend-for-web-development-in-2026.jpg",
     title: "Top Web Development Trends to Watch in 2026",
     metadata:
       "From performance optimization to modern frameworks, explore the latest web development trends shaping the future.",
